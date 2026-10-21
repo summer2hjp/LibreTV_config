@@ -1,1 +1,78 @@
-
+{
+  "name": "成人版点播源",
+  "version": 2,
+  "sources": [
+    {
+      "name": "madou",
+      "url": "https://91md.me/api.php/provide/vo",
+      "detail": "https://91md.me",
+      "isAdult": true
+    },
+    {
+      "name": "91",
+      "url": "https://91jpzyw.com/api.php/provide/vod",
+      "detail": "https://91jpzyw.com",
+      "isAdult": true
+    },
+    {
+      "name": "yutu",
+      "url": "https://apiyutu.com/api.php/provide/vo",
+      "detail": "https://apiyutu.com",
+      "isAdult": true
+    },
+    {
+      "name": "fanhao",
+      "url": "http://fhapi9.com/api.php/provide/vod",
+      "detail": "https://fhapi9.com",
+      "isAdult": true
+    },
+    {
+      "name": "laosb",
+      "url": "https://apilsbzy1.com/api.php/provide/vo",
+      "detail": "https://apilsbzy1.com",
+      "isAdult": true
+    },
+    {
+      "name": "avck",
+      "url": "https://hsckzy.xyz/api.php/provide/vod",
+      "detail": "https://hsckzy.xyz",
+      "isAdult": true
+    },
+    {
+      "name": "bignz",
+      "url": "https://apidanaizi.com/api.php/provide/vod",
+      "detail": "https://apidanaizi.com",
+      "isAdult": true
+    },
+    {
+      "name": "naix",
+      "url": "https://Naixxzy.com/api.php/provide/vod",
+      "detail": "https://Naixxzy.com",
+      "isAdult": true
+    },
+    {
+      "name": "sengl",
+      "url": "https://beiyong.slapibf.com/api.php/provide/vod",
+      "detail": "https://beiyong.slapibf.com",
+      "isAdult": true
+    },
+    {
+      "name": "shayu",
+      "url": "https://shayuapi.com/api.php/provide/vod",
+      "detail": "https://shayuapi.com",
+      "isAdult": true
+    },
+    {
+      "name": "doudou",
+      "url": "https://api.douapi.cc/api.php/provide/vo",
+      "detail": "https://api.douapi.cc",
+      "isAdult": true
+    },
+    {
+      "name": "didi",
+      "url": "https://api.ddapi.cc/api.php/provide/vod",
+      "detail": "https://api.ddapi.cc",
+      "isAdult": true
+    }
+  ]
+}
